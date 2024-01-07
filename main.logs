@@ -1,0 +1,155 @@
+03469497536
+main-------2024-01-03 01:04:41.209155
+Message: element not interactable
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00766EE3+174339]
+	(No symbol) [0x00690A51]
+	(No symbol) [0x003A6E8A]
+	(No symbol) [0x003DA6B1]
+	(No symbol) [0x003D2B4E]
+	(No symbol) [0x003F700C]
+	(No symbol) [0x003D25B0]
+	(No symbol) [0x003F7414]
+	(No symbol) [0x0040A104]
+	(No symbol) [0x003F6DA6]
+	(No symbol) [0x003D1034]
+	(No symbol) [0x003D1F8D]
+	GetHandleVerifier [0x00804B1C+820540]
+	sqlite3_dbdata_init [0x008C53EE+653550]
+	sqlite3_dbdata_init [0x008C4E09+652041]
+	sqlite3_dbdata_init [0x008B97CC+605388]
+	sqlite3_dbdata_init [0x008C5D9B+656027]
+	(No symbol) [0x0069FE6C]
+	(No symbol) [0x006983B8]
+	(No symbol) [0x006984DD]
+	(No symbol) [0x00685818]
+	BaseThreadInitThunk [0x761A0099+25]
+	RtlGetAppContainerNamedObjectPath [0x77147B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77147B3E+238]
+
+---------main
+
+main-------2024-01-05 03:24:06.779509
+Message: element not interactable
+  (Session info: chrome=120.0.6099.131)
+Stacktrace:
+	GetHandleVerifier [0x00C06EE3+174339]
+	(No symbol) [0x00B30A51]
+	(No symbol) [0x00846E8A]
+	(No symbol) [0x0087A6B1]
+	(No symbol) [0x00872B4E]
+	(No symbol) [0x0089700C]
+	(No symbol) [0x008725B0]
+	(No symbol) [0x00897414]
+	(No symbol) [0x008AA104]
+	(No symbol) [0x00896DA6]
+	(No symbol) [0x00871034]
+	(No symbol) [0x00871F8D]
+	GetHandleVerifier [0x00CA4B1C+820540]
+	sqlite3_dbdata_init [0x00D653EE+653550]
+	sqlite3_dbdata_init [0x00D64E09+652041]
+	sqlite3_dbdata_init [0x00D597CC+605388]
+	sqlite3_dbdata_init [0x00D65D9B+656027]
+	(No symbol) [0x00B3FE6C]
+	(No symbol) [0x00B383B8]
+	(No symbol) [0x00B384DD]
+	(No symbol) [0x00B25818]
+	BaseThreadInitThunk [0x76AC0099+25]
+	RtlGetAppContainerNamedObjectPath [0x76FD7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x76FD7B3E+238]
+
+---------main
+
+main-------2024-01-08 02:19:17.239763
+Message: element not interactable
+  (Session info: chrome=120.0.6099.131)
+Stacktrace:
+	GetHandleVerifier [0x00786EE3+174339]
+	(No symbol) [0x006B0A51]
+	(No symbol) [0x003C6E8A]
+	(No symbol) [0x003FA6B1]
+	(No symbol) [0x003F2B4E]
+	(No symbol) [0x0041700C]
+	(No symbol) [0x003F25B0]
+	(No symbol) [0x00417414]
+	(No symbol) [0x0042A104]
+	(No symbol) [0x00416DA6]
+	(No symbol) [0x003F1034]
+	(No symbol) [0x003F1F8D]
+	GetHandleVerifier [0x00824B1C+820540]
+	sqlite3_dbdata_init [0x008E53EE+653550]
+	sqlite3_dbdata_init [0x008E4E09+652041]
+	sqlite3_dbdata_init [0x008D97CC+605388]
+	sqlite3_dbdata_init [0x008E5D9B+656027]
+	(No symbol) [0x006BFE6C]
+	(No symbol) [0x006B83B8]
+	(No symbol) [0x006B84DD]
+	(No symbol) [0x006A5818]
+	BaseThreadInitThunk [0x75980099+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B3E+238]
+
+---------main
+
+main-------2024-01-08 02:23:02.964230
+Message: element not interactable
+  (Session info: chrome=120.0.6099.131)
+Stacktrace:
+	GetHandleVerifier [0x009E6EE3+174339]
+	(No symbol) [0x00910A51]
+	(No symbol) [0x00626E8A]
+	(No symbol) [0x0065A6B1]
+	(No symbol) [0x00652B4E]
+	(No symbol) [0x0067700C]
+	(No symbol) [0x006525B0]
+	(No symbol) [0x00677414]
+	(No symbol) [0x0068A104]
+	(No symbol) [0x00676DA6]
+	(No symbol) [0x00651034]
+	(No symbol) [0x00651F8D]
+	GetHandleVerifier [0x00A84B1C+820540]
+	sqlite3_dbdata_init [0x00B453EE+653550]
+	sqlite3_dbdata_init [0x00B44E09+652041]
+	sqlite3_dbdata_init [0x00B397CC+605388]
+	sqlite3_dbdata_init [0x00B45D9B+656027]
+	(No symbol) [0x0091FE6C]
+	(No symbol) [0x009183B8]
+	(No symbol) [0x009184DD]
+	(No symbol) [0x00905818]
+	BaseThreadInitThunk [0x75980099+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B3E+238]
+
+---------main
+
+main-------2024-01-08 02:28:52.583219
+Message: element not interactable
+  (Session info: chrome=120.0.6099.131)
+Stacktrace:
+	GetHandleVerifier [0x00E66EE3+174339]
+	(No symbol) [0x00D90A51]
+	(No symbol) [0x00AA6E8A]
+	(No symbol) [0x00ADA6B1]
+	(No symbol) [0x00AD2B4E]
+	(No symbol) [0x00AF700C]
+	(No symbol) [0x00AD25B0]
+	(No symbol) [0x00AF7414]
+	(No symbol) [0x00B0A104]
+	(No symbol) [0x00AF6DA6]
+	(No symbol) [0x00AD1034]
+	(No symbol) [0x00AD1F8D]
+	GetHandleVerifier [0x00F04B1C+820540]
+	sqlite3_dbdata_init [0x00FC53EE+653550]
+	sqlite3_dbdata_init [0x00FC4E09+652041]
+	sqlite3_dbdata_init [0x00FB97CC+605388]
+	sqlite3_dbdata_init [0x00FC5D9B+656027]
+	(No symbol) [0x00D9FE6C]
+	(No symbol) [0x00D983B8]
+	(No symbol) [0x00D984DD]
+	(No symbol) [0x00D85818]
+	BaseThreadInitThunk [0x75980099+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B3E+238]
+
+---------main

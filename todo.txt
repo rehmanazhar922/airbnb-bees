@@ -1,0 +1,25 @@
+vijay: each scrape must have thats scraped specifications catagory in another table 
+
+
+
+status of program: collecting hoster info
+
+
+
+
+BUGS : 
+1. reviews of some peoples, stars , exp , notes
+
+fixes:
+
+find the elements which are uniuque
+
+
+
+Done: 
+
+""1. reviews of some peoples, stars , exp , notes"" 
+
+
+
+still needed: host_profile_link is so goofy system
